@@ -52,7 +52,7 @@ Flight pricing is dynamic and influenced by multiple factors. This project build
 - Interactive **Streamlit dashboard** for predictions.  
 
 ### 📂 Dataset
-- **Source**: [Flight_Price.csv](#)  
+- **Source**: [Flight_Price.csv]( https://github.com/karuna-2828/Flight-Price-Customer-Satisfaction-Prediction/blob/main/Data/Flight_Price.csv)
 - **Features** include: Airline, Date_of_Journey, Source & Destination, Route, Departure/Arrival Time, Duration, Total Stops, Additional Info.  
 
 ### 📦 Deliverables
@@ -107,7 +107,7 @@ Passenger satisfaction depends on both service quality and personal factors. Thi
 - Intuitive **Streamlit interface** for predictions.  
 
 ### 📂 Dataset
-- **Source**: [Passenger_Satisfaction.csv](#)  
+- **Source**: [Passenger_Satisfaction.csv]()  
 - **Features** include: Gender, Customer Type, Age, Travel Purpose, Class, Flight Distance, Service Ratings, Satisfaction.  
 
 ### 📦 Deliverables
