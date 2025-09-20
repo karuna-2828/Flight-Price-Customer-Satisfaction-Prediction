@@ -61,6 +61,7 @@ Flight pricing is dynamic and influenced by multiple factors. This project build
 - Streamlit app for flight price prediction.  
 
 📊 Results:  
+<img width="939" height="398" alt="image" src="https://github.com/user-attachments/assets/d38b230c-3679-4d8e-8d69-209339263f9e" />
 
 
 ---
@@ -117,5 +118,14 @@ Passenger satisfaction depends on both service quality and personal factors. Thi
 
 📊 Results:  
 
+<img width="884" height="347" alt="image" src="https://github.com/user-attachments/assets/754f87ae-2e0b-4310-9edc-aebbee5472ed" />
+
 
 ---
+Streamlit Results:
+<img width="941" height="313" alt="image" src="https://github.com/user-attachments/assets/9b2b6d0f-6c50-4be9-90bc-dbbe21409620" />
+
+<img width="937" height="439" alt="image" src="https://github.com/user-attachments/assets/f474aa74-7969-4074-9280-b3cb618e129b" />
+
+<img width="940" height="436" alt="image" src="https://github.com/user-attachments/assets/41e68fe5-1c6e-44a0-a98e-fd17a84e8f8e" />
+
